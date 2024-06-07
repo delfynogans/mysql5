@@ -3,7 +3,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Delfyno dwi prastyo|312310473|TI.23.A.5|Basis Data|
+|Delfyno dwi prastyo|312310480|TI.23.A.5|Basis Data|
 
 # Soal Latihan Praktikum 
 
